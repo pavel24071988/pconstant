@@ -1,0 +1,6 @@
+User-Agent: Yandex
+User-Agent: Googlebot 
+User-Agent: *
+Disallow:
+Host: pconstant.ru
+Sitemap: http://pconstant.ru/sitemap.xml
