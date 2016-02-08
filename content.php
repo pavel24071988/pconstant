@@ -7,7 +7,7 @@
  */
 echo('<div id="main_content">');
 $URL = explode('/', $_SERVER['REQUEST_URI']);
-switch($URL[1]) {
+switch($URL[1]){
     case '':
         include_once('pages/main.php');
         break;
