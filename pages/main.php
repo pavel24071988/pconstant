@@ -146,6 +146,9 @@
                 <div class="partner-item">
                         <img src="images/partner6.png" alt="love eco"/>
                 </div>
+                <div class="partner-item">
+                        <img src="images/partner7.png" alt="bunker"/>
+                </div>
         </div>
 </div>
 <div itemscope itemtype="http://schema.org/ScholarlyArticle">
