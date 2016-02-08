@@ -129,25 +129,25 @@
         </h1>
         <div class="partners-holder clearfix">
                 <div class="partner-item">
-                        <img src="images/partner1.png" alt="Флэтко"/>
+                    <img src="images/partner1.png" alt="Флэтко"/>
                 </div>
                 <div class="partner-item">
-                        <img src="images/partner2.png" alt="все потолки"/>
+                    <img src="images/partner2.png" alt="все потолки"/>
                 </div>
                 <div class="partner-item">
-                        <img src="images/partner3.png" alt="новый уровень"/>
+                    <img src="images/partner3.png" alt="новый уровень"/>
                 </div>
                 <div class="partner-item">
-                        <img src="images/partner4.png" alt="меркурий"/>
+                    <img src="images/partner4.png" alt="меркурий"/>
                 </div>
                 <div class="partner-item">
-                        <img src="images/partner5.png" alt="натяжной потолок в каждый дом"/>
+                    <img src="images/partner5.png" alt="натяжной потолок в каждый дом"/>
                 </div>
                 <div class="partner-item">
-                        <img src="images/partner6.png" alt="love eco"/>
+                    <img src="images/partner6.png" alt="love eco"/>
                 </div>
                 <div class="partner-item">
-                        <img src="images/partner7.png" alt="bunker"/>
+                    <img src="images/partner7.png" alt="bunker"/>
                 </div>
         </div>
 </div>
