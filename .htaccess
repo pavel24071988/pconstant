@@ -1,0 +1,12 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} ^www\.pconstant\.ru$ [NC]
+RewriteRule ^(.*)$ http://pconstant.ru/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteCond %{REQUEST_URI} !^/index\.php
+RewriteRule ^(.*)$ index.php?/$1 [L]
