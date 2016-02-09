@@ -184,7 +184,7 @@ if(!empty($URI[2])){
                         <img src="images/partner1.png" alt="Флэтко"/>
                 </div>
                 <div class="partner-item">
-                        <img src="images/partner2.png" alt="все потолки"/>
+                    <img src="images/partner7.png" alt="bunker"/>
                 </div>
                 <div class="partner-item">
                         <img src="images/partner3.png" alt="новый уровень"/>
@@ -197,9 +197,6 @@ if(!empty($URI[2])){
                 </div>
                 <div class="partner-item">
                         <img src="images/partner6.png" alt="love eco"/>
-                </div>
-                <div class="partner-item">
-                    <img src="images/partner7.png" alt="bunker"/>
                 </div>
         </div>
         <div class="partners-text">
