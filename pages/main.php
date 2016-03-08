@@ -132,7 +132,7 @@
                     <img src="images/partner1.png" alt="Флэтко"/>
                 </div>
                 <div class="partner-item">
-                    <img src="images/partner7.png" alt="bunker"/>
+                    <a href="http://privatebunker.ru/"><img src="images/partner7.png" alt="bunker"/></a>
                 </div>
                 <div class="partner-item">
                     <img src="images/partner3.png" alt="новый уровень"/>
